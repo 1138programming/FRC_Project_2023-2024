@@ -3,10 +3,15 @@ It's the project for new programmers how to code and do team properly.
 
 # How to create your own branch?   
 ## First:
-Go to
+- __Go to__
 
 ![image](https://github.com/1138programming/FRC_Project_2023-2024/assets/56778123/a76b649c-a4bd-4d3f-b355-6156577ea0ce)
 
-then go to 
+- __then go to__ 
+
+![image](https://github.com/1138programming/FRC_Project_2023-2024/assets/56778123/2d83a7aa-5588-40e2-a3b7-4b44c6ca2ba7)
+
+
+- __then go to__ 
 
 ![image](https://github.com/1138programming/FRC_Project_2023-2024/assets/56778123/c8b1f1ea-e3d4-4c75-a15e-c2eec23aa2f9)
