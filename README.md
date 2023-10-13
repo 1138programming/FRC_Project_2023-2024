@@ -21,4 +21,4 @@ It's the project for new programmers how to code and do team properly.
 __Then you will have your own branch !!!__
 Notice: When you push code to your own branch, it won't affect anything in the main branch. 
 
-**Be careful, don't push anything into the main branch.**
+<font color=red size=10>Be careful, don't push anything into the main branch.</font>
