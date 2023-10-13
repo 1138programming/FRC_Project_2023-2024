@@ -18,7 +18,7 @@ It's the project for new programmers how to code and do team properly.
 
 ![image](https://github.com/1138programming/FRC_Project_2023-2024/assets/56778123/c8b1f1ea-e3d4-4c75-a15e-c2eec23aa2f9)
 
-__Then you will have your own branch !!!__
+__Then you will have your own branch__
 Notice: When you push code to your own branch, it won't affect anything in the main branch. 
 
-<font color=red size=10>Be careful, don't push anything into the main branch.</font>
+### Be careful, don't push anything into the main branch!!!
